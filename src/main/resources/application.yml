@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: DEMO_AWS_APP
+
+server:
+  port: 5000
